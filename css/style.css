@@ -588,8 +588,8 @@ img {max-width: 100%;}
 .action::before {
 	position: absolute;
 	content: '';
-	width: 43px;
-	height: 43px;
+	width: 37px;
+	height: 37px;
 	border-radius: 100%;
 	background: #ff9000;
 	top: 13px;
